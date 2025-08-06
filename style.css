@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(0, 255, 34);
+    color: rgb(255, 142, 4);
+    padding: 10px;
+}
+
+#image {
+    float: left;
+}
+
+#description {
+    float: right;
+}
+
+#reviews {
+    clear: both
+}
